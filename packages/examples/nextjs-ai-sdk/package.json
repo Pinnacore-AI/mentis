@@ -11,7 +11,7 @@
   "dependencies": {
     "@ai-sdk/react": "^1.2.12",
     "@openrouter/ai-sdk-provider": "^0.7.3",
-    "ai": "^4.3.19",
+    "ai": "^5.0.52",
     "mentis": "0.2.0-alpha.4",
     "next": "15.4.3",
     "react": "19.1.0",
